@@ -4,7 +4,7 @@
 - [LESSON TWO - 如何发音](#lesson-two)
 - [LESSON THREE - 重点问题纠正](#lesson-three)
 
-## LESSON ONE
+## LESSON ONE `基础音标`
 
 **英语音标表 - 元音（20个）辅音（28个）**
 
@@ -49,6 +49,8 @@
 - 10：ten   / ten / 
 
 ## LESSON TWO
+
+#### 如何发音
 
 关于如何运气，如何做发音之前的准备。
 
