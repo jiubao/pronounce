@@ -81,10 +81,10 @@
 
 1. /e/ e, ea, ie, a
 
-  g`e`t  y**e**t  w*e*t  n~~e~~ck  ch***e***ck  bed  egg  beg  pen  ten  tell  fell  best  text next  spend  very  ever  never seven   question  yellow  forget   friend    dead   heaven  any  many
+  g***e***t  y***e***t  w***e***t  n***e***ck  ch***e***ck  b***e***d  ***e***gg  b***e***g  p***e***n  t***e***n  t***e***ll  f***e***ll  b***e***st  t***e***xt n***e***xt  sp***e***nd  v***e***ry  ***e***ver  n***e***ver s***e***ven   qu***e***stion  y***e***llow  forg***e***t   fri***e***nd    d***ea***d   h***ea***ven  ***a***ny  m***a***ny
 
-  * Better late than never. `迟做总比不做好`
-  * East or west, home is best. `金窝银窝不如自己家的狗窝`
+  * B***e***tter late than n***e***ver. `迟做总比不做好`
+  * East or w***e***st, home is b***e***st. `金窝银窝不如自己家的狗窝`
 
 2. /æ/--/e/    前者嘴张的大一些，60%左右；后者小一些
 
@@ -114,7 +114,7 @@
 
   treat—cheat  trees—cheese  trip—chip   train—chain   trace--chase
 
-  ***/dr/-/dʒ/   同样，前者有r音；后者不能噘嘴***
+  **/dr/-/dʒ/   同样，前者有r音；后者不能噘嘴**
 
   dressed—jest   drug—jug  drudge—judge
 
@@ -135,9 +135,9 @@
   cats   sweets   eats   hats   pets  shirts
   hands   heads   beds   birds  goods     reads     friends
 
-  第二行的/dz/你一直发音比较困难，***可以先试着说“滋”***，然后再减少拖音变成/dz/。
+  第二行的/dz/你一直发音比较困难，**可以先试着说“滋”**，然后再减少拖音变成/dz/。
 
-  ***注意/ts/是牙齿间有风出来的，而/dz/则没有。***
+  **注意/ts/是牙齿间有风出来的，而/dz/则没有。**
 
 8. Tongue Twisters 一些绕口令，可以说着玩~
 
