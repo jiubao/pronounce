@@ -88,15 +88,15 @@
 
 2. /æ/--/e/    前者嘴张的大一些，60%左右；后者小一些
 
-  bag—beg  gas—guess  mat—met  sad—said  bad—bed  land—lend  sand—send  pack—peck  ham—hem  pan—pen  lad—led
+  b***a***g—b***e***g  g***a***s—gu***e***ss  m***a***t—m***e***t  s***a***d—s***ai***d  b***a***d—b***e***d  l***a***nd—l***e***nd  s***a***nd—s***e***nd  p***a***ck—p***e***ck  h***a***m—h***e***m  p***a***n—p***e***n  l***a***d—l***e***d
 
-  * A fact is a fact. `事实胜于雄辩`
-  * Don’t let the cat out of the bag. `勿泄漏机密`
+  * A f***a***ct is a f***a***ct. `事实胜于雄辩`
+  * Don’t let the c***a***t out of the b***a***g. `勿泄漏机密`
 
 3. /s/ /z/ 前者是蛇叫“嘶”声，**后者注意舌头放平，区分r的发音**
 
   sit    stand  rice  juice   seven   sister    serve   house   science
-  size   houses     busy    lazy   jazz
+  size   hou***ses***     busy    lazy   jazz
   cease—seize  loose—lose  pass—parse  seal—zeal  sink—zinc  race--raise
 
 4. /ɵ/ /ð/  这些放慢读你都没有问题，说明需要多练习哦~
@@ -112,7 +112,7 @@
 
 6. **/tr/-/tʃ/ 注意啦！前者有r音；后者是“吃”，不要撅起嘴**
 
-  treat—cheat  trees—cheese  trip—chip   train—chain   trace--chase
+  ***tr***eat—***ch***eat  ***tr***ees—***ch***eese ***tr***ip—***ch***ip   ***tr***ain—***ch***ain   ***tr***ace—***ch***ase
 
   **/dr/-/dʒ/   同样，前者有r音；后者不能噘嘴**
 
@@ -142,15 +142,15 @@
 8. Tongue Twisters 一些绕口令，可以说着玩~
 
   * 区分 /siŋ/   /sæŋ/  / s/\ŋ /   / sɔŋ /
-  Can you sing the song she sang yesterday?
-  Of course, I can sing the song she sang yesterday.
-  The song she sang is often sung in our school.
-  And I have just sung the song she sang yesterday.
+  Can you ***sing*** the ***song*** she ***sang*** yesterday?
+  Of course, I can ***sing*** the ***song*** she ***sang*** yesterday.
+  The ***song*** she ***sang*** is often ***sung*** in our school.
+  And I have just ***sung*** the ***song*** she ***sang*** yesterday.
   * 区分 /s/ / ʃ/
-  She sells seashells by the seashore.
-  The shells she sells are seashells, I’m sure.
-  So if she sells seashells by the seashore,
-  Then I’m sure she sells seashore shells.
+  ***She sells seashells*** by the ***seashore***.
+  The ***shells she sells*** are ***seashells***, I’m ***sure***.
+  ***So*** if ***she sells seashells*** by the ***seashore***,
+  Then I’m sure ***she sells seashore shells***.
 
 9. 补充问题：主要是读句子时的分段，需要看语境，说句子时可以多去理解句子本身的语境；**不管是人生还是说话，都要富有激情哦~~**
 
