@@ -93,7 +93,7 @@
   * A fact is a fact. `事实胜于雄辩`
   * Don’t let the cat out of the bag. `勿泄漏机密`
 
-3. /s/ /z/ 前者是蛇叫“嘶”声，后者注意舌头放平，区分r的发音
+3. /s/ /z/ 前者是蛇叫“嘶”声，**后者注意舌头放平，区分r的发音**
 
   sit    stand  rice  juice   seven   sister    serve   house   science
   size   houses     busy    lazy   jazz
@@ -105,16 +105,16 @@
   this   that   they    father    mother    brother    another
   breath—breathe  teeth—teethe  worth—worthy  north—northern  south—southern       bath—bathe
 
-5. /ɵ/-/s/   注意舌头位置！
+5. **/ɵ/-/s/** 注意舌头位置！
 
   thin—sin      thing—sing  think—sink   thick—sick  thank—sank    thought—sought  thumb—some        theme--seem
   * Mickey Mouse has a big mouth and steals away the cheese from the farmer’s house.
 
-6. /tr/-/tʃ/   注意啦！前者有r音；后者是“吃”，不要撅起嘴
+6. **/tr/-/tʃ/ 注意啦！前者有r音；后者是“吃”，不要撅起嘴**
 
   treat—cheat  trees—cheese  trip—chip   train—chain   trace--chase
 
-  /dr/-/dʒ/   同样，前者有r音；后者不能噘嘴
+  ***/dr/-/dʒ/   同样，前者有r音；后者不能噘嘴***
 
   dressed—jest   drug—jug  drudge—judge
 
@@ -130,14 +130,14 @@
   truck   trumpet   try   trousers   tree   travel  true  truth
   dry   driver   drink   drank  dress   draw
 
-7. /ts/  /dz/   
+7. **/ts/  /dz/**
 
   cats   sweets   eats   hats   pets  shirts
   hands   heads   beds   birds  goods     reads     friends
 
-  第二行的/dz/你一直发音比较困难，可以先试着说“滋”，然后再减少拖音变成/dz/。
+  第二行的/dz/你一直发音比较困难，***可以先试着说“滋”***，然后再减少拖音变成/dz/。
 
-  注意/ts/是牙齿间有风出来的，而/dz/则没有。
+  ***注意/ts/是牙齿间有风出来的，而/dz/则没有。***
 
 8. Tongue Twisters 一些绕口令，可以说着玩~
 
@@ -152,7 +152,7 @@
   So if she sells seashells by the seashore,
   Then I’m sure she sells seashore shells.
 
-9. 补充问题：主要是读句子时的分段，需要看语境，说句子时可以多去理解句子本身的语境；不管是人生还是说话，都要富有激情哦~~
+9. 补充问题：主要是读句子时的分段，需要看语境，说句子时可以多去理解句子本身的语境；**不管是人生还是说话，都要富有激情哦~~**
 
   这里用你不太会发的TH音的句子举个例子，相信你那么聪明一定可以举一反三~
 
