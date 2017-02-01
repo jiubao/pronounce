@@ -1,12 +1,6 @@
-# pronounce
+# Pronounce
 
-# React Native [![Build Status](https://travis-ci.org/facebook/react-native.svg?branch=master)](https://travis-ci.org/facebook/react-native) [![Circle CI](https://circleci.com/gh/facebook/react-native.svg?style=svg)](https://circleci.com/gh/facebook/react-native) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
-
-React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and [React](https://facebook.github.io/react). The focus of React Native is on developer efficiency across all the platforms you care about - learn once, write anywhere. Facebook uses React Native in multiple production apps and will continue investing in React Native.
-
-Supported operating systems are >= Android 4.1 (API 16) and >= iOS 8.0.
-
-- [Getting Started](#getting-started)
+- [Lesson 1 - 基础音标](#Lesson 1 - 基础音标)
 - [Getting Help](#getting-help)
 - [Documentation](#documentation)
 - [Examples](#examples)
@@ -16,7 +10,7 @@ Supported operating systems are >= Android 4.1 (API 16) and >= iOS 8.0.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Lesson 1 - 基础音标
 
 See the official [React Native website](https://facebook.github.io/react-native/) for an introduction to React Native.
 
