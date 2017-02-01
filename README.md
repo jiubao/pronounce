@@ -14,6 +14,7 @@
 
 ### 英语音标表
 
+| 元音 |||||||||
 | ----- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 长元音 | ɑ: | ɔ: | ɜ: | i: | u: ||||
 | 短元音 | ʌ | ɒ | ə | ɪ | ʊ | e | æ ||
@@ -29,16 +30,29 @@
 | 半元音 | j | w |||||
 | 边音 | l |||||||
 
+课后跟读练习：
 
-&#675;
-
-&#678;
-
-
-
-
-
-See the official [React Native website](https://facebook.github.io/react-native/) for an introduction to React Native.
+闹钟：alarm   /ə'lɑ:m/ 
+美国：America   /ə'merikə / 
+阿凡达：Avatar   /'ævətɑ:/  
+博客：blog   /blɔg / 
+英国：Britain  /'britn / 
+首都：capital   / 'kæpitəl/ 
+城市：city   / 'siti / 
+家庭：family   / 'fæməli/ 
+鱼：fish  /fiʃ/ 
+朋友：friend   /frend/ 
+手：hand   /hænd/ 
+冰淇林：ice cream   / 'aiskri:m/ 
+钥匙：key   /ki:/ 
+孩子：kid   /kid/ 
+信件：letter   /'letə/ 
+男人：man   /mæn/ 
+钢笔：pen   /pen/ 
+警察：police  /pə'li:s/ 
+绵羊：sheep  /ʃi:p/ 
+轮船：ship  /ʃip/ 
+10：ten   / ten / 
 
 ## LESSON TWO
 
