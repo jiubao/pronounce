@@ -62,7 +62,7 @@
 
 | 分类 | 舌唇准备 | 单词举例 |
 | -- | -- | -- |
-| AEIOU | 开口60% | Answer ending in often under |
+| BMP | 双唇轻轻合拢 | Best mention patient |
 
 注意事项：
 - 你发音时比较大的问题是，嘴部动作幅度较小，练习时注意有意识地放大一下动作。
