@@ -1,7 +1,7 @@
 # Pronounce
 
 - [Lesson one 基础音标](#Lesson-one-基础音标)
-- [Getting Help](#getting-help)
+- [LESSON TWO](#LESSON-TWO)
 - [Documentation](#documentation)
 - [Examples](#examples)
 - [Extending React Native](#extending-react-native)
@@ -14,7 +14,7 @@
 
 See the official [React Native website](https://facebook.github.io/react-native/) for an introduction to React Native.
 
-## Getting Started
+## LESSON TWO
 
 - Follow the [Getting Started guide](https://facebook.github.io/react-native/docs/getting-started.html) to install React Native and its dependencies.
 - Check out this [tutorial](https://facebook.github.io/react-native/docs/sample-application-movies.html) to walk through your first project that fetches real data and displays it in a list.
