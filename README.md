@@ -62,10 +62,10 @@
 
 | 分类 | 舌唇准备 | 单词举例 |
 | :-- | :-- | :-- |
-| AEIOU | 开口60% | **Answer** ending in often **under** |
+| AEIOU | 开口60% | `Answer` ending in often `under` |
 | BMP | 双唇轻轻合拢 | Best mention patient |
 | CKG | 开口20% 喉音 | Can kick gone |
-| DJNT | 舌头抬起45度 | Duck **justice** nice time |
+| DJNT | 舌头抬起45度 | Duck [justice]() nice time |
 | FV | 上齿轻咬下唇 | Fast fancy very visit |
 | H | 开口40% | Hate handsome hired have |
 | L | 舌头抬起30度，抵住牙齿 | Leave last love |
