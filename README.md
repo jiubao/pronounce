@@ -73,16 +73,19 @@
 - 注意必须要`做好准备`工作再发音。
 
 ## LESSON THREE
+>重点问题纠正
 
 1. /e/： e, ea, ie, a
 
-get  yet  wet  neck  check  bed  egg  beg  pen  ten  tell  fell  best  text next  spend  very  ever  never seven   question  yellow  forget   friend    dead   heaven  any  many   
+  ```
+  get  yet  wet  neck  check  bed  egg  beg  pen  ten  tell  fell  best  text next  spend  very  ever  never seven   question  yellow  forget   friend    dead   heaven  any  many
+  ```
 
-* Better late than never.（迟做总比不做好）
-* East or west, home is best. （金窝银窝不如自己家的狗窝）
+  * Better late than never. `迟做总比不做好`
+  * East or west, home is best. （金窝银窝不如自己家的狗窝）
 
 2. /æ/--/e/    前者嘴张的大一些，60%左右；后者小一些
-bag—beg  gas—guess  mat—met  sad—said  bad—bed  land—lend  sand—send  pack—peck  ham—hem  pan—pen  lad—led
+  bag—beg  gas—guess  mat—met  sad—said  bad—bed  land—lend  sand—send  pack—peck  ham—hem  pan—pen  lad—led
 
-* A fact is a fact.（事实胜于雄辩）
-* Don’t let the cat out of the bag.(勿泄漏机密)
+  * A fact is a fact.（事实胜于雄辩）
+  * Don’t let the cat out of the bag.(勿泄漏机密)
