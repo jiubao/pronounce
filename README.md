@@ -20,16 +20,21 @@
 | 短元音 | ʌ | ɒ | ə | ɪ | ʊ | e | æ ||
 | 双元音 | eɪ | aɪ | ɔɪ | ɪə | eə | ʊə | əʊ | aʊ |
 
+| 辅音 |||||||
+| ----- | :-: | :-: | :-: | :-: | :-: | :-: |
+| 轻辅音 | p | t | k | f | θ | s |
+| 浊辅音 | b | d | g | v | ð | z |
+| 轻辅音 | ʃ | h | ts | ʧ | tr ||
+| 浊辅音 | ʒ | r | dz | ʤ | dr ||
+| 鼻音 | m | n | ŋ |
+| 半元音 | j | w |
+| 边音 | l |
+
+
 &#675;
 
-辅音（28个）
-轻辅音
-浊辅音
-轻辅音
-浊辅音
-鼻音
-半元音
-边音
+
+
 
 
 See the official [React Native website](https://facebook.github.io/react-native/) for an introduction to React Native.
