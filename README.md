@@ -8,7 +8,7 @@
 - [Upgrading](#upgrading)
 - [Opening Issues](#opening-issues)
 - [Contributing](#contributing)
-- [License](#license)
+- [LESSON THREE - 重点问题纠正](#LESSON THREE - 重点问题纠正)
 
 ## Lesson 1 - 基础音标
 
@@ -90,7 +90,7 @@ For more information about contributing PRs and issues, see our [Contribution Gu
 
 We encourage the community to ask and answer questions on Stack Overflow with [the react-native tag](https://stackoverflow.com/questions/tagged/react-native). It's a great way to help out and be involved!
 
-## License
+## LESSON THREE - 重点问题纠正
 
 React is [BSD licensed](./LICENSE). We also provide an additional [patent grant](./PATENTS).
 
