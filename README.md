@@ -6,44 +6,7 @@
 
 ## LESSON ONE
 
-### 英语音标表
-
-**元音（20个）**
-<table>
-  <tr>
-    <td>长元音</td>
-    <td>ɑ:</td>
-    <td>ɔ:</td>
-    <td>ɜ:</td>
-    <td>i:</td>
-    <td>u:</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>短元音</td>
-    <td>ʌ</td>
-    <td>ɒ</td>
-    <td>ə</td>
-    <td>ɪ</td>
-    <td>ʊ </td>
-    <td>e</td>
-    <td>æ</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>双元音</td>
-    <td>eɪ</td>
-    <td>aɪ</td>
-    <td>ɔɪ</td>
-    <td>ɪə</td>
-    <td>eə</td>
-    <td>ʊə</td>
-    <td>əʊ</td>
-    <td>aʊ</td>
-  </tr>
-</table>
+**英语音标表 - 元音（20个）辅音（28个）**
 
 | 元音 |||||||||
 | ----- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
