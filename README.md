@@ -142,14 +142,23 @@
 8. Tongue Twisters 一些绕口令，可以说着玩~
 
   * 区分 /siŋ/   /sæŋ/  / s/\ŋ /   / sɔŋ /
+
   Can you ***sing*** the ***song*** she ***sang*** yesterday?
+
   Of course, I can ***sing*** the ***song*** she ***sang*** yesterday.
+
   The ***song*** she ***sang*** is often ***sung*** in our school.
+
   And I have just ***sung*** the ***song*** she ***sang*** yesterday.
+
   * 区分 /s/ / ʃ/
+
   ***She sells seashells*** by the ***seashore***.
+
   The ***shells she sells*** are ***seashells***, I’m ***sure***.
+
   ***So*** if ***she sells seashells*** by the ***seashore***,
+
   Then I’m sure ***she sells seashore shells***.
 
 9. 补充问题：主要是读句子时的分段，需要看语境，说句子时可以多去理解句子本身的语境；**不管是人生还是说话，都要富有激情哦~~**
@@ -157,10 +166,15 @@
   这里用你不太会发的TH音的句子举个例子，相信你那么聪明一定可以举一反三~
 
   I know/ that / it happened.
+
   He saw/ them/ leaving.
+
   Did/ they/ think/ it would/ happen?
+
   We thought/ he/ did it.
+
   It was/ there/ yesterday.
+
   Don’t/ throw anything/ away.
 
   分段没有特定规律，可以自己划分。
