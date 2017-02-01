@@ -62,7 +62,7 @@
 
 | 分类 | 舌唇准备 | 单词举例 |
 | :-- | :-- | :-- |
-| AEIOU | 开口60% | Answer ending in often under |
+| AEIOU | 开口60% | [Answer]() ending in often [under] |
 | BMP | 双唇轻轻合拢 | Best mention patient |
 | CKG | 开口20% 喉音 | Can kick gone |
 | DJNT | 舌头抬起45度 | Duck justice nice time |
@@ -71,8 +71,7 @@
 | L | 舌头抬起30度，抵住牙齿 | Leave last love |
 | RSY | 开口10%（几乎不开口） | Ran sent yes |
 | W | 开口呈亲吻式O型 | Want why word went |
-| TH | 舌头抵住上齿底部（不需要太多伸出） | ① this  those these them that
-② thank  thought  throw |
+| TH | 舌头抵住上齿底部（不需要太多伸出） | ① this  those these them that ② thank  thought  throw |
 
 注意事项：
 - 你发音时比较大的问题是，嘴部动作幅度较小，练习时注意有意识地放大一下动作。
