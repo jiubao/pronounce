@@ -1,6 +1,6 @@
-# Phonetic Transcription Lesson
+# Phonetic Transcription Lessons
 
-- [Lesson one 基础音标](#Lesson-one-基础音标)
+- [Lesson one 基础音标](#lesson-one)
 - [LESSON TWO](#lesson-two)
 - [Documentation](#documentation)
 - [Examples](#examples)
@@ -56,11 +56,22 @@
 
 ## LESSON TWO
 
-- Follow the [Getting Started guide](https://facebook.github.io/react-native/docs/getting-started.html) to install React Native and its dependencies.
-- Check out this [tutorial](https://facebook.github.io/react-native/docs/sample-application-movies.html) to walk through your first project that fetches real data and displays it in a list.
-- [Open the UIExplorer example project](#examples) to see a list of components that ship with React Native.
-- Install the React Developer Tools for [Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) or [Firefox](https://addons.mozilla.org/firefox/addon/react-devtools/) for better debugging [(read more)](https://facebook.github.io/react-native/docs/debugging.html).
-- Try out apps from the [Showcase](https://facebook.github.io/react-native/showcase.html) to see what React Native is capable of!
+关于如何运气，如何做发音之前的准备。
+
+发音之前，把舌头和嘴巴放在相应位置，吸气，然后将气挤压出去，发出音。注意需让每个单词都包含一个长元音。
+
+| 分类 | 舌唇准备 | 单词举例 |
+| -- | -- | -- |
+| AEIOU | 开口60% | [Answer] ending in often [under] |
+| BMP | 双唇轻轻合拢 | Best mention patient |
+| CKG | 开口20% 喉音 | Can kick gone |
+| DJNT | 舌头抬起45度 | Duck [justice] nice time |
+| FV | 上齿轻咬下唇 | Fast fancy very visit |
+| H | 开口40% | Hate handsome hired have |
+| L | 舌头抬起30度，抵住牙齿 | Leave last love |
+| RSY | 开口10%（几乎不开口） | Ran sent yes |
+| W | 开口呈亲吻式O型 | Want why word went |
+| TH | 舌头抵住上齿底部（不需要太多伸出） | ① this those [these] them that ② thank thought [throw] |
 
 ## Getting Help
 
