@@ -61,7 +61,7 @@
 发音之前，把舌头和嘴巴放在相应位置，吸气，然后将气挤压出去，发出音。注意需让每个单词都包含一个长元音。
 
 | 分类 | 舌唇准备 | 单词举例 |
-| -- | -- | -- |
+| :--: | :--: | :--: |
 | asdf | asdfasdf | adfasd |
 
 | AEIOU | 开口60% | Answer ending in often under |
@@ -73,6 +73,8 @@
 | L | 舌头抬起30度，抵住牙齿 | Leave last love |
 | RSY | 开口10%（几乎不开口） | Ran sent yes |
 | W | 开口呈亲吻式O型 | Want why word went |
+| TH | 舌头抵住上齿底部（不需要太多伸出） | ① this  those these them that
+② thank  thought  throw |
 
 注意事项：
 - 你发音时比较大的问题是，嘴部动作幅度较小，练习时注意有意识地放大一下动作。
