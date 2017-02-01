@@ -1,7 +1,7 @@
-# Pronounce
+# Phonetic Transcription Lesson
 
 - [Lesson one 基础音标](#Lesson-one-基础音标)
-- [LESSON TWO](#LESSON-TWO)
+- [LESSON TWO](#lesson-two)
 - [Documentation](#documentation)
 - [Examples](#examples)
 - [Extending React Native](#extending-react-native)
@@ -10,7 +10,27 @@
 - [Contributing](#contributing)
 - [LESSON THREE - 重点问题纠正](#LESSON-THREE---重点问题纠正)
 
-## Lesson 1 - 基础音标
+## LESSON ONE
+
+### 英语音标表
+
+| 元音（20个） |
+| ------| ------ | ------ |
+| 长元音 | ɑ: | ɔ: | ɜ: | i: | u: |
+| 短元音 | ʌ | ɒ | ə | ɪ | ʊ | e | æ |
+| 双元音 | eɪ | aɪ | ɔɪ | ɪə | eə | ʊə | əʊ | aʊ |
+
+&#675;
+
+辅音（28个）
+轻辅音
+浊辅音
+轻辅音
+浊辅音
+鼻音
+半元音
+边音
+
 
 See the official [React Native website](https://facebook.github.io/react-native/) for an introduction to React Native.
 
