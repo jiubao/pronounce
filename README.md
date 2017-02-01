@@ -81,7 +81,7 @@
 
 1. /e/ e, ea, ie, a
 
-  get  yet  wet  neck  check  bed  egg  beg  pen  ten  tell  fell  best  text next  spend  very  ever  never seven   question  yellow  forget   friend    dead   heaven  any  many
+  g`e`t  y**e**t  w*e*t  n~~e~~ck  ch***e***ck  bed  egg  beg  pen  ten  tell  fell  best  text next  spend  very  ever  never seven   question  yellow  forget   friend    dead   heaven  any  many
 
   * Better late than never. `迟做总比不做好`
   * East or west, home is best. `金窝银窝不如自己家的狗窝`
