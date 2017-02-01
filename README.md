@@ -61,9 +61,7 @@
 发音之前，把舌头和嘴巴放在相应位置，吸气，然后将气挤压出去，发出音。注意需让每个单词都包含一个长元音。
 
 | 分类 | 舌唇准备 | 单词举例 |
-| :--: | :--: | :--: |
-| asdf | asdfasdf | adfasd |
-
+| :-- | :-- | :-- |
 | AEIOU | 开口60% | Answer ending in often under |
 | BMP | 双唇轻轻合拢 | Best mention patient |
 | CKG | 开口20% 喉音 | Can kick gone |
