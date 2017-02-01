@@ -1,6 +1,6 @@
 # Pronounce
 
-- [Lesson 1 - 基础音标](#Lesson 1 - 基础音标)
+- [Lesson one 基础音标](#Lesson-one-基础音标)
 - [Getting Help](#getting-help)
 - [Documentation](#documentation)
 - [Examples](#examples)
@@ -8,7 +8,7 @@
 - [Upgrading](#upgrading)
 - [Opening Issues](#opening-issues)
 - [Contributing](#contributing)
-- [LESSON THREE - 重点问题纠正](#LESSON THREE - 重点问题纠正)
+- [LESSON THREE - 重点问题纠正](#LESSON-THREE---重点问题纠正)
 
 ## Lesson 1 - 基础音标
 
