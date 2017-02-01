@@ -68,18 +68,16 @@
 | TH | 舌头抵住上齿底部（不需要太多伸出） | ① this those **these** them that ② thank thought **throw** |
 
 注意事项：
-- 你发音时比较大的问题是，`嘴部动作幅度较小`，练习时注意有意识地放大一下动作。
-- 发音时必须要`放慢速度`，不要求快。尤其刚开始练习，时间久了自然会快。
-- 注意必须要`做好准备`工作再发音。
+- 你发音时比较大的问题是，**嘴部动作幅度较小**，练习时注意有意识地放大一下动作。
+- 发音时必须要 **放慢速度**，不要求快。尤其刚开始练习，时间久了自然会快。
+- 注意必须要 **做好准备** 工作再发音。
 
 ## LESSON THREE
 >重点问题纠正
 
-1. /e/： e, ea, ie, a
+1. /e/ e, ea, ie, a
 
-  ```
   get  yet  wet  neck  check  bed  egg  beg  pen  ten  tell  fell  best  text next  spend  very  ever  never seven   question  yellow  forget   friend    dead   heaven  any  many
-  ```
 
   * Better late than never. `迟做总比不做好`
   * East or west, home is best. `金窝银窝不如自己家的狗窝`
@@ -106,19 +104,25 @@
 5. /ɵ/-/s/   注意舌头位置！
 
   thin—sin      thing—sing  think—sink   thick—sick  thank—sank    thought—sought  thumb—some        theme--seem
-  Mickey Mouse has a big mouth and steals away the cheese from the farmer’s house.
+  * Mickey Mouse has a big mouth and steals away the cheese from the farmer’s house.
 
 6. /tr/-/tʃ/   注意啦！前者有r音；后者是“吃”，不要撅起嘴
 
   treat—cheat  trees—cheese  trip—chip   train—chain   trace--chase
+
   /dr/-/dʒ/   同样，前者有r音；后者不能噘嘴
+
   dressed—jest   drug—jug  drudge—judge
+
   多练习注意区分，不要两者都读的一样；可以录音下来听听自己念得对不对！
+
   /tʃ /  /dʒ/   
+
   teach   itch   touch   reach   rich    China    charming    chilly
   judge    arrange   jam    jelly   jazz     enjoy    join    jeans
 
   /tr/  /dr/
+
   truck   trumpet   try   trousers   tree   travel  true  truth
   dry   driver   drink   drank  dress   draw
 
@@ -126,17 +130,19 @@
 
   cats   sweets   eats   hats   pets  shirts
   hands   heads   beds   birds  goods     reads     friends
+
   第二行的/dz/你一直发音比较困难，可以先试着说“滋”，然后再减少拖音变成/dz/。
+
   注意/ts/是牙齿间有风出来的，而/dz/则没有。
 
 8. Tongue Twisters 一些绕口令，可以说着玩~
 
-  ①区分 /siŋ/   /sæŋ/  / s/\ŋ /   / sɔŋ /
+  * 区分 /siŋ/   /sæŋ/  / s/\ŋ /   / sɔŋ /
   Can you sing the song she sang yesterday?
   Of course, I can sing the song she sang yesterday.
   The song she sang is often sung in our school.
   And I have just sung the song she sang yesterday.
-  ②区分 /s/ / ʃ/
+  * 区分 /s/ / ʃ/
   She sells seashells by the seashore.
   The shells she sells are seashells, I’m sure.
   So if she sells seashells by the seashore,
@@ -145,12 +151,16 @@
 9. 补充问题：主要是读句子时的分段，需要看语境，说句子时可以多去理解句子本身的语境；不管是人生还是说话，都要富有激情哦~~
 
   这里用你不太会发的TH音的句子举个例子，相信你那么聪明一定可以举一反三~
+
   I know/ that / it happened.
   He saw/ them/ leaving.
   Did/ they/ think/ it would/ happen?
   We thought/ he/ did it.
   It was/ there/ yesterday.
   Don’t/ throw anything/ away.
+
   分段没有特定规律，可以自己划分。
+
   恩大概就是这样总结一下，关于尾款，如果你觉得我做的不够好，那真的抱歉了。希望你可以利用好每天的5分钟，仅仅是5分钟就可以很棒啦，为什么不去实践一下呢~Practice makes perfect. 谢谢这几天的照顾，会一直记在心里。
+
   Zoe : )
